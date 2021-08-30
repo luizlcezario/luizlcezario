@@ -10,7 +10,7 @@ Student of 42 and UFABC passionate about programming, passionate about learning 
 
 ---
 
-- 💻 I'm  studying at [UFfABC](https://www.ufabc.edu.br/) and studying at [École 42](https://www.42.fr/) - [São Paulo unit](https://www.42sp.org.br/)
+- 💻 I'm  studying at [UFABC](https://www.ufabc.edu.br/) and studying at [École 42](https://www.42.fr/) - [São Paulo unit](https://www.42sp.org.br/)
 - ⚙️ I use daily:  `.c`, `.js`, `.html`, `.css`, `.json`
 - 🌱 Learning all about **C**
 - 📫 Reach me: luizlcezario@gmail.com or [Luiz Discod](https://discordapp.com/users/)
