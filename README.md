@@ -50,23 +50,14 @@ Student of 42 and UFABC passionate about programming, passionate about learning 
 <h3 align="center">🥈 phase 2 🥈</h3>
 
 <div align="center">
-<a href="https://github.com/luizlcezario/Libft">
+<a href="https://github.com/luizlcezario/push_swap">
  <img height="80px" src="./.github/libfte.png" />
 </a>
-<a href="https://github.com/luizlcezario/get_next_line">
-<img height="80px" src="./.github/get_next_linem.png" />
-</a>
-<a href="https://github.com/luizlcezario/ft_printf">
-<img height="80px" src="./.github/ft_printfm.png" />
-</a>
-<img height="80px" src="./.github/born2berootm.png" />
-<a href="https://github.com/luizlcezario/So_Long">
-<img height="80px" src="./.github/so_longm.png" />
-
-</a>
-<a href="https://github.com/luizlcezario/Pipex">
-<img height="80px" src="./.github/pipexm.png" />
-</a> 
+<img height="80px" src="./.github/push_swapn.png" />
+<img height="80px" src="./.github/minishelln.png" />
+<img height="80px" src="./.github/philosophersn.png" />
+<img height="80px" src="./.github/netpracticen.png" />
+<img height="80px" src="./.github/cub3dn.png" />
  
 ![0%](https://progress-bar.dev/0/?scale=100&title=progress&width=500&color=8AB58&suffix=%)
 </div>
@@ -75,12 +66,11 @@ Student of 42 and UFABC passionate about programming, passionate about learning 
 <h3 align="center">🥇 phase 3 🥇</h3>
 
 <div align="center">
-<img height="80px" src="https://user-images.githubusercontent.com/98053054/151611442-dc327b44-b61e-430d-85c8-9789af8824be.png" />
-<img height="80px" src="https://user-images.githubusercontent.com/98053054/151611429-e4a36218-d7d4-4473-be17-c540d5142727.png" />
-<img height="80px" src="https://user-images.githubusercontent.com/98053054/151611436-17a59a6a-92ea-4fce-8875-729ec921b159.png" />
-<img height="80px" src="https://user-images.githubusercontent.com/98053054/151611452-4bccbc17-efc9-44e0-822c-8c37fe870aa5.png" />
-<img height="80px" src="https://user-images.githubusercontent.com/98053054/151613333-54274f48-bd45-44e0-b0dc-44830df847fa.png" />
-<img height="80px" src="https://user-images.githubusercontent.com/98053054/151612892-1c10eb9f-62e8-44ba-a671-36be46d40a2d.png" />
+<img height="80px" src="./.github/cppn.png" />
+<img height="80px" src="./.github/ft_containersn.png" />
+<img height="80px" src="./.github/inceptionn.png" />
+<img height="80px" src="./.github/webservn.png" />
+<img height="80px" src="./.github/ft_transcendencen.png" />
  
  
 ![0%](https://progress-bar.dev/0/?scale=100&title=progress&width=500&color=8AB58&suffix=%)
