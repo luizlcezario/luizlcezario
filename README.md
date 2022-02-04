@@ -51,9 +51,8 @@ Student of 42 and UFABC passionate about programming, passionate about learning 
 
 <div align="center">
 <a href="https://github.com/luizlcezario/push_swap">
- <img height="80px" src="./.github/libfte.png" />
+  <img height="80px" src="./.github/push_swapn.png" />
 </a>
-<img height="80px" src="./.github/push_swapn.png" />
 <img height="80px" src="./.github/minishelln.png" />
 <img height="80px" src="./.github/philosophersn.png" />
 <img height="80px" src="./.github/netpracticen.png" />
