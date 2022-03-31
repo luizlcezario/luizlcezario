@@ -51,14 +51,14 @@ Student of 42 and UFABC passionate about programming, passionate about learning 
 
 <div align="center">
 <a href="https://github.com/luizlcezario/push_swap">
-  <img height="80px" src="./.github/push_swapn.png" />
+  <img height="80px" src="./.github/push_swapm.png" />
 </a>
 <img height="80px" src="./.github/minishelln.png" />
 <img height="80px" src="./.github/philosophersn.png" />
 <img height="80px" src="./.github/netpracticen.png" />
 <img height="80px" src="./.github/cub3dn.png" />
  
-![0%](https://progress-bar.dev/0/?scale=100&title=progress&width=500&color=8AB58&suffix=%)
+![20%](https://progress-bar.dev/0/?scale=100&title=progress&width=500&color=8AB58&suffix=%)
 </div>
  
  
