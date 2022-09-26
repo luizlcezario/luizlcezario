@@ -53,12 +53,16 @@ Student of 42 and UFABC passionate about programming, passionate about learning 
 <a href="https://github.com/luizlcezario/push_swap">
   <img height="80px" src="./.github/push_swapm.png" />
 </a>
+<a href="https://github.com/Nokstella-Technologies/42-mini_shell">
 <img height="80px" src="./.github/minishelln.png" />
+</a>
+<a href="https://github.com/luizlcezario/Philosophers">
 <img height="80px" src="./.github/philosophersn.png" />
+</a>
 <img height="80px" src="./.github/netpracticen.png" />
 <img height="80px" src="./.github/cub3dn.png" />
  
-![20%](https://progress-bar.dev/20/?scale=100&title=progress&width=500&color=8AB58&suffix=%)
+![60%](https://progress-bar.dev/20/?scale=100&title=progress&width=500&color=8AB58&suffix=%)
 </div>
  
  
