@@ -62,7 +62,7 @@ Student of 42 and UFABC passionate about programming, passionate about learning 
 <img height="80px" src="./.github/netpracticen.png" />
 <img height="80px" src="./.github/cub3dn.png" />
  
-![60%](https://progress-bar.dev/20/?scale=100&title=progress&width=500&color=8AB58&suffix=%)
+![60%](https://progress-bar.dev/60/?scale=100&title=progress&width=500&color=8AB58&suffix=%)
 </div>
  
  
