@@ -59,7 +59,7 @@ Student of 42 and UFABC passionate about programming, passionate about learning 
 <a href="https://github.com/luizlcezario/Philosophers">
 <img height="80px" src="./.github/philosophersm.png" />
 </a>
-<img height="80px" src="./.github/netpracticen.png" />
+<img height="80px" src="./.github/netpracticee.png" />
 <img height="80px" src="./.github/cub3dn.png" />
  
 ![80%](https://progress-bar.dev/80/?scale=100&title=progress&width=500&color=8AB58&suffix=%)
