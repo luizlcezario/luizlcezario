@@ -62,7 +62,7 @@ Student of 42 and UFABC passionate about programming, passionate about learning 
 <img height="80px" src="./.github/netpracticee.png" />
 <img height="80px" src="./.github/cub3dn.png" />
  
-![80%](https://progress-bar.dev/80/?scale=100&title=progress&width=500&color=8AB58&suffix=%)
+![100%](https://progress-bar.dev/100/?scale=100&title=progress&width=500&color=8AB58&suffix=%)
 </div>
  
  
@@ -70,13 +70,12 @@ Student of 42 and UFABC passionate about programming, passionate about learning 
 
 <div align="center">
 <img height="80px" src="./.github/cppn.png" />
-<img height="80px" src="./.github/ft_containersn.png" />
 <img height="80px" src="./.github/inceptionn.png" />
 <img height="80px" src="./.github/webservn.png" />
 <img height="80px" src="./.github/ft_transcendencen.png" />
  
  
-![0%](https://progress-bar.dev/0/?scale=100&title=progress&width=500&color=8AB58&suffix=%)
+![25%](https://progress-bar.dev/25/?scale=100&title=progress&width=500&color=8AB58&suffix=%)
 </div>
 
 
