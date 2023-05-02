@@ -79,9 +79,9 @@ Student of 42 and UFABC passionate about programming, passionate about learning 
 </div>
 
 ---
-
+<p align="center">
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luizlcezario&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-
+</p>
 ---
  
 <p align="center">
