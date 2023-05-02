@@ -78,6 +78,9 @@ Student of 42 and UFABC passionate about programming, passionate about learning 
 ![25%](https://progress-bar.dev/25/?scale=100&title=progress&width=500&color=8AB58&suffix=%)
 </div>
 
+---
+
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luizlcezario&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
  
