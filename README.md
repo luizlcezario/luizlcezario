@@ -78,10 +78,7 @@ Student of 42 and UFABC passionate about programming, passionate about learning 
 ![25%](https://progress-bar.dev/25/?scale=100&title=progress&width=500&color=8AB58&suffix=%)
 </div>
 
----
-<center>
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luizlcezario&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-</center>
+
 ---
  
 <center>
@@ -93,19 +90,9 @@ Student of 42 and UFABC passionate about programming, passionate about learning 
 
 ---
 
+<center>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizlcezario&theme=dracula">
+</center>
+
+---
 > *No matter where you go, everyone’s connected. – Lain Iwakura*
-
-<!--
-**Yaten/Yaten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
