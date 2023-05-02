@@ -79,17 +79,17 @@ Student of 42 and UFABC passionate about programming, passionate about learning 
 </div>
 
 ---
-<p align="center">
+<center>
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luizlcezario&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+</center>
 ---
  
-<p align="center">
+<center>
   <img src="https://github-profile-trophy.vercel.app/?username=luizlcezario&title=Commit,Followers&theme=onedark&row=1&column=2&no-bg=true&margin-w=15&no-frame=true" alt="yaten" /></a>
   <br>
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=luizlcezario&theme=dracula&hide_border=true" alt="yaten" /></a>
-</p>
+</center>
 
 ---
 
