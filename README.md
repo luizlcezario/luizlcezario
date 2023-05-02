@@ -40,7 +40,7 @@ Student of 42 and UFABC passionate about programming, passionate about learning 
 <a href="https://github.com/luizlcezario/Pipex">
 <img height="80px" src="./.github/pipexm.png" />
 </a> 
- 
+
  
 ![100%](https://progress-bar.dev/100/?scale=100&title=progress&width=500&color=8AB58&suffix=%)
 </div>
@@ -78,7 +78,11 @@ Student of 42 and UFABC passionate about programming, passionate about learning 
 ![25%](https://progress-bar.dev/25/?scale=100&title=progress&width=500&color=8AB58&suffix=%)
 </div>
 
+<h2 align="center">🏆 Oracle One Next Educaiton Challenges badges 🏆</h2>
 
+<div align="center">
+<img height="90px" src=".github/oracle1.png" />
+</div>
 ---
  
 <center>
