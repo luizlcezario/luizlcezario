@@ -10,14 +10,13 @@ Student of 42 and UFABC passionate about programming, passionate about learning 
 
 ---
 
-- 💻 I'm  studying at [UFABC](https://www.ufabc.edu.br/) and studying at [École 42](https://www.42.fr/) - [São Paulo unit](https://www.42sp.org.br/)
-- ⚙️ I use daily:  `.c`, `.js`, `.html`, `.css`, `.json`
+- 💻 I'm studying at [UFABC](https://www.ufabc.edu.br/) and studying at [École 42](https://www.42.fr/) - [São Paulo unit](https://www.42sp.org.br/)
+- ⚙️ I use daily: `.c`, `.js`, `.html`, `.css`, `.json`
 - 🌱 Learning all about **C**
 - 📫 Reach me: luizlcezario@gmail.com or [Luiz Discod](https://discordapp.com/users/340199911821934592)
 
 ---
- 
- 
+
 <h2 align="center">🏆 42 badges 🏆</h2>
 
 <h3 align="center"> 🥉 phase 1 🥉</h3>
@@ -39,14 +38,12 @@ Student of 42 and UFABC passionate about programming, passionate about learning 
 </a>
 <a href="https://github.com/luizlcezario/Pipex">
 <img height="80px" src="./.github/pipexm.png" />
-</a> 
+</a>
 
- 
 ![100%](https://progress-bar.dev/100/?scale=100&title=progress&width=500&color=8AB58&suffix=%)
+
 </div>
 
- 
- 
 <h3 align="center">🥈 phase 2 🥈</h3>
 
 <div align="center">
@@ -60,7 +57,9 @@ Student of 42 and UFABC passionate about programming, passionate about learning 
 <img height="80px" src="./.github/philosophersm.png" />
 </a>
 <img height="80px" src="./.github/netpracticee.png" />
-<img height="80px" src="./.github/cub3dn.png" />
+<a href="https://github.com/luizlcezario/cub3D">
+  <img height="80px" src="./.github/cub3dn.png" />
+</a>
  
 ![100%](https://progress-bar.dev/100/?scale=100&title=progress&width=500&color=8AB58&suffix=%)
 </div>
@@ -69,8 +68,12 @@ Student of 42 and UFABC passionate about programming, passionate about learning 
 <h3 align="center">🥇 phase 3 🥇</h3>
 
 <div align="center">
-<img height="80px" src="./.github/cppn.png" />
-<img height="80px" src="./.github/inceptionn.png" />
+<a href="https://github.com/luizlcezario/CPP_Modules">
+  <img height="80px" src="./.github/cppn.png" />
+</a>
+<a  href="https://github.com/luizlcezario/Inception-42">
+  <img height="80px" src="./.github/inceptionn.png" />
+</a>
 <img height="80px" src="./.github/webservn.png" />
 <img height="80px" src="./.github/ft_transcendencen.png" />
  
@@ -81,15 +84,24 @@ Student of 42 and UFABC passionate about programming, passionate about learning 
 <h2 align="center">🏆 Oracle One Next Educaiton Challenges badges 🏆</h2>
 
 <div align="center">
-<img height="90px" src=".github/oracle1.png" />
+<a href="https://github.com/luizlcezario/OracleOne_Challenge_Encrypt">
+  <img height="90px" src=".github/oracle1.png" />
+</a>
+
+<a href="https://github.com/luizlcezario/OracleOne_Challenge_Conversor">
+  <img height="90px" src=".github/oracle_conversor.png" />
+</a>
+<a href="https://github.com/luizlcezario/OracleOne_Challenge_HotelOne">
+  <img height="90px" src=".github/oracle_hotelalura.png" />
+</a>
 </div>
 ---
  
 <center>
-  <img src="https://github-profile-trophy.vercel.app/?username=luizlcezario&title=Commit,Followers&theme=onedark&row=1&column=2&no-bg=true&margin-w=15&no-frame=true" alt="yaten" /></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=luizlcezario&title=Commit,Followers&theme=onedark&row=1&column=2&no-bg=true&margin-w=15&no-frame=true" /></a>
   <br>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luizlcezario&theme=dracula&hide_border=true" alt="yaten" /></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luizlcezario&theme=dracula&hide_border=true" /></a>
 </center>
 
 ---
@@ -99,4 +111,5 @@ Student of 42 and UFABC passionate about programming, passionate about learning 
 </center>
 
 ---
-> *No matter where you go, everyone’s connected. – Lain Iwakura*
+
+> _No matter where you go, everyone’s connected. – Lain Iwakura_
