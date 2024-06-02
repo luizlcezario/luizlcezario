@@ -107,7 +107,7 @@ Student of 42 and UFABC passionate about programming, passionate about learning 
 ---
 
 <center>
- <img src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=luizlcezario&theme=dracula">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizlcezario">
 </center>
 
 ---
