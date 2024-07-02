@@ -78,7 +78,7 @@ Student of 42 and UFABC passionate about programming, passionate about learning 
 <img height="80px" src="./.github/ft_transcendencen.png" />
  
  
-![25%](https://progress-bar.dev/25/?scale=100&title=progress&width=500&color=8AB58&suffix=%)
+![100%](https://progress-bar.dev/100/?scale=100&title=progress&width=500&color=8AB58&suffix=%)
 </div>
 
 <h2 align="center">🏆 Oracle One Next Educaiton Challenges badges 🏆</h2>
